@@ -3,9 +3,15 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 3
+
+Nathan, I'm glad that you found the two papers that you read this week a bit accessible. AJP can be a good resource to help you get started. I would have liked to see a bit more on your interpretation of the mathematical models the papers were using to explain the effects they analyzed. I assume that will be present in the paper draft that you are working on in two weeks. You will want to make sure that you can explain those models well.
+
+* Score: 18/20
+
 ## Assignment 2
 
-Nathan, I think you found some good resources, but see my feedback below for a couple that might be good for next week. They will be a bit more readable, and also have some of the athematical details you will want. This is because I want you to dig into some of the mathematical models as you begin to understand more deeply what this effect is and how people go about modeling it. I think the AJP articles will help you a lot in this respect.
+Nathan, I think you found some good resources, but see my feedback below for a couple that might be good for next week. They will be a bit more readable, and also have some of the mathematical details you will want. This is because I want you to dig into some of the mathematical models as you begin to understand more deeply what this effect is and how people go about modeling it. I think the AJP articles will help you a lot in this respect.
 
 * Score: 18/20
 
