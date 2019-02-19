@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+No update from assignment 4?
+
+* Score: 0/20
+
 ## Assignment 4
 
 Nathan, this is a good start to your paper and I think I have a sense of where you are going. I think there's a few bits of feedback that I have for you. (1) You should reference the papers that you are drawing from directly in your paper (i.e., as citations). (2) I think your writing style is nice for this kind of papers - it's more like a science magazine and that's a fine style for this paper, so keep it up. Finally, (3) I do think you need more detail on the realtionship between the conceptual descriptions and the eventual mathematical models and results you will present in your paper. So just pay attention to that as you are working on the next bits of the paper. What you have now conceptually is very good, but that relationship between the ceonptual and mathematical makes a stronger paper.
