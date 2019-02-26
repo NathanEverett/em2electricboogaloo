@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Nathan, this is looking like a solid paper. I will be interested in how you are going to finish it as it is laid out very clearly, but the discussion and conclusions will be important to consider. I think the qeuation you have stated could be one part of it, but you will probably want to think about a nice conclusion that connects Meisnner effect to some larger narrative (of your choosing).
+
+* Score: 18/20
+
 ## Assignment 5
 
 No update from assignment 4?
